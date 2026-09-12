@@ -1,0 +1,1 @@
+# deadconfig2socks
